@@ -1,7 +1,7 @@
 # VSD_CMOS_WORKSHOP
 A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Kunal Ghosh)
 
-<h1> Day1 </h1>
+<h1> Day 1: Basics of NMOS Drain current (Id) vs Drain-to-source Voltage (Vds) </h1>
 
 
 <img width="473" height="342" alt="cmosvsdday1pic1" src="https://github.com/user-attachments/assets/1bb8f41a-bad9-4bf3-8b10-d749d3d25ed3" />
@@ -37,7 +37,7 @@ A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Ku
 <img width="610" height="384" alt="cmosvsdday1pic11" src="https://github.com/user-attachments/assets/6979cc1c-e169-4b2c-9022-ec4fac1c5b3a" />
 
 
-<h1> Day 2</h1>
+<h1> Day 2: Velocity saturation and basics of CMOS inverter VTC</h1>
 
 
 <img width="610" height="384" alt="cmosvsdday2pic1" src="https://github.com/user-attachments/assets/2d264312-6353-4e0b-b840-5ba3f6114102" />
@@ -52,7 +52,7 @@ A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Ku
 <img width="611" height="388" alt="cmosvsdday2pic4" src="https://github.com/user-attachments/assets/d800b977-6691-4375-a36c-d3b0602870e9" />
 
 
-<h1> Day 3</h1>
+<h1> Day 3: CMOS Switching threshold and dynamic simulations</h1>
 
 
 <img width="581" height="360" alt="cmosvsdday3pic1" src="https://github.com/user-attachments/assets/b381e3ac-6bfb-402b-a14b-c38e87de2323" />
@@ -73,7 +73,7 @@ A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Ku
 <img width="611" height="386" alt="cmosvsdday3pic6" src="https://github.com/user-attachments/assets/e3bf83f5-49bb-4554-af85-8a99236e337f" />
 
 
-<h1> Day 4</h1>
+<h1> Day 4: CMOS Noise Margin robustness evaluation</h1>
 
 
 <img width="609" height="385" alt="cmosvsdday4pic1" src="https://github.com/user-attachments/assets/ac3f6257-715f-4cbb-96e7-ae2777b0b8ff" />
@@ -88,7 +88,7 @@ A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Ku
 <img width="775" height="413" alt="cmosvsdday4pic4" src="https://github.com/user-attachments/assets/47861d76-1d62-4ce5-b9f7-bcbf3817cc58" />
 
 
-<h1> Day 5</h1>
+<h1> Day 5: CMOS power supply and device variation robustness evaluation</h1>
 
 
 <img width="767" height="414" alt="cmosvsdday5pic1" src="https://github.com/user-attachments/assets/972ec2ed-1271-48f0-b8d3-0a79b178de53" />
