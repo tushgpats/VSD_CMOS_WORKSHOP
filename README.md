@@ -67,10 +67,29 @@ In real-world devices, even in the saturation region, Id shows a slight increase
 <h1> Day 2: Velocity saturation and basics of CMOS inverter VTC</h1>
 
 
+As MOSFETs scale down to submicron and nanometer dimensions, electric fields in the channel become very high. In long-channel devices, the carrier velocity (electrons in NMOS) is proportional to the electric field (v = μn · E). However, at high fields, this relationship no longer holds.At high electric fields, the carrier velocity stops increasing linearly and instead saturates at a maximum value. So for very short-channel devices, carrier velocity no longer increases with Vds beyond a point — it saturates.
+
+In velocity saturation regime, drain current (Id) becomes linear with gate overdrive, not quadratic as in traditional long-channel saturation:
+
+`Id ≈ W · Cox · vsat · (Vgs − Vth)`
+
+
 <img width="610" height="384" alt="cmosvsdday2pic1" src="https://github.com/user-attachments/assets/2d264312-6353-4e0b-b840-5ba3f6114102" />
 
 
 <img width="611" height="389" alt="cmosvsdday2pic2" src="https://github.com/user-attachments/assets/6268163e-97ed-437f-bc9a-a9e29fe39e1d" />
+
+
+Voltage Transfer Characteristic (VTC)
+The VTC curve plots Vout vs. Vin and shows how the inverter responds to input voltage transitions.
+Switching Threshold (Vₘ): The point where Vin = Vout on the VTC curve
+Ideally around VDD/2
+
+
+Noise margins:
+
+`NMH = VOH − VIH`
+`NML = VIL − VOL`
 
 
 <img width="610" height="386" alt="cmosvsdday2pic3" src="https://github.com/user-attachments/assets/e8d766eb-eac1-488f-96d3-9da6bd9900c7" />
