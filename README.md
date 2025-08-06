@@ -3,6 +3,8 @@ A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Ku
 
 <h1> Day 1: Basics of NMOS Drain current (Id) vs Drain-to-source Voltage (Vds) </h1>
 
+The drain current (Id) of an NMOS transistor is a function of both the gate-to-source voltage (Vgs) and the drain-to-source voltage (Vds). Depending on the values of these voltages relative to the transistor’s threshold voltage (Vth), the device operates in one of three regions: cutoff, linear (triode), or saturation. Each region has distinct electrical behavior, which is fundamental to digital and analog circuit design.
+
 
 <img width="473" height="342" alt="cmosvsdday1pic1" src="https://github.com/user-attachments/assets/1bb8f41a-bad9-4bf3-8b10-d749d3d25ed3" />
 
@@ -23,6 +25,31 @@ A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Ku
 
 
 <img width="610" height="383" alt="cmosvsdday1pic7" src="https://github.com/user-attachments/assets/4c921cf6-4b43-4c4e-9755-6f5fdad8e64f" />
+
+
+1. Cutoff Region
+When Vgs < Vth, the transistor is OFF, and no conductive channel forms between the source and drain. As a result, the drain current Id is essentially zero:
+
+Id = 0
+This region is used in digital logic to represent a logical “0” or non-conducting state.
+
+2. Linear (Triode) Region
+When Vgs > Vth and Vds < (Vgs - Vth), the transistor enters the linear (or triode) region. In this region, a conductive channel forms and the transistor behaves like a voltage-controlled resistor. The drain current increases approximately linearly with Vds and is given by the equation:
+
+`Id = μn * Cox * (W/L) * [ (Vgs - Vth) * Vds - (Vds^2)/2 ]`
+
+
+3. Saturation Region
+When Vgs > Vth and Vds ≥ (Vgs - Vth), the transistor enters the saturation region. In this state, the channel near the drain pinches off, and the current becomes almost independent of Vds. The drain current is described by:
+
+`Id = (1/2) · μn · Cox · (W / L) · (Vgs − Vth)²`
+
+
+Channel Length Modulation (λ)
+In real-world devices, even in the saturation region, Id shows a slight increase with Vds due to channel length modulation, which is modeled similarly to the Early effect in BJTs. With this effect considered, the equation becomes:
+
+`Id = (1/2) · μn · Cox · (W / L) · (Vgs − Vth)² · (1 + λ · Vds)`
+
 
 
 <img width="611" height="385" alt="cmosvsdday1pic8" src="https://github.com/user-attachments/assets/9ff9ae74-b80b-4647-a1a3-372da7011df2" />
