@@ -68,30 +68,40 @@ A Repository for a CMOS Fundamental workshop attended by me. Conducted by VSD(Ku
 <img width="611" height="386" alt="cmosvsdday3pic6" src="https://github.com/user-attachments/assets/e3bf83f5-49bb-4554-af85-8a99236e337f" />
 
 
+<img width="609" height="385" alt="cmosvsdday4pic1" src="https://github.com/user-attachments/assets/ac3f6257-715f-4cbb-96e7-ae2777b0b8ff" />
 
 
+<img width="603" height="388" alt="cmosvsdday4pic2" src="https://github.com/user-attachments/assets/53a63db4-9103-46bd-9380-9907b21a5308" />
 
 
+<img width="773" height="413" alt="cmosvsdday4pic3" src="https://github.com/user-attachments/assets/d5de4cf4-0063-4aa2-91c3-d0db49f8ec52" />
 
 
+<img width="775" height="413" alt="cmosvsdday4pic4" src="https://github.com/user-attachments/assets/47861d76-1d62-4ce5-b9f7-bcbf3817cc58" />
 
 
+<img width="767" height="414" alt="cmosvsdday5pic1" src="https://github.com/user-attachments/assets/972ec2ed-1271-48f0-b8d3-0a79b178de53" />
 
 
+<img width="773" height="415" alt="cmosvsdday5pic2" src="https://github.com/user-attachments/assets/c0b82db7-6810-43ee-aa12-60639e611594" />
 
 
+<img width="772" height="412" alt="cmosvsdday5pic3" src="https://github.com/user-attachments/assets/9a6daa0a-dd6b-4f4a-9282-308897b06818" />
 
 
+<img width="775" height="413" alt="cmosvsdday5pic4" src="https://github.com/user-attachments/assets/0d819a13-c75b-4239-900a-ff381016083d" />
 
 
+<img width="772" height="413" alt="cmosvsdday5pic5" src="https://github.com/user-attachments/assets/a2a8c67a-bc16-4b77-9b4c-cdbe9be1aff6" />
 
 
+<img width="770" height="413" alt="cmosvsdday5pic6" src="https://github.com/user-attachments/assets/e4e282de-0d4f-4231-b18a-8a561890ea9b" />
 
 
+<img width="776" height="417" alt="cmosvsdday5pic7" src="https://github.com/user-attachments/assets/f5141cb0-b651-4f23-8d77-013937023e52" />
 
 
-
-
+<img width="787" height="418" alt="cmosvsdday5pic8" src="https://github.com/user-attachments/assets/e110aaed-2362-4f87-84fd-0453886b8525" />
 
 
 
